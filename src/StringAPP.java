@@ -3,7 +3,7 @@ public class StringAPP {
 
 	public static void main(String[] args) {
 		
-		String nombre=JOptionPane.showInputDialog("Introduce tu nombre");
+		String nombre="Albert";
 		
 		JOptionPane.showMessageDialog(null, "Bienvenido "+nombre);
 
